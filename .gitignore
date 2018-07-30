@@ -1,0 +1,13 @@
+**/.nyc_output/**
+**/.nycrc
+**/mochawesome-report/**
+**/node_modules/**
+**/reports/**
+*.log
+*.swo
+*.swp
+*.tgz
+*.zip
+**/test/wiremock/**
+**/*.env
+**/.cache/**
